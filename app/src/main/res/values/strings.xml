@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string-array name="weight">
+        <item>Gram</item>
+        <item>Kilogram</item>
+        <item>Ton</item>
+        <item>Pound</item>
+        <item>Litre</item>
+        <item>Quintal</item>
+    </string-array>
+    <string-array name="temperature">
+        <item>Kelvin</item>
+        <item>Celsius</item>
+        <item>Farenheit</item>
+    </string-array>
+    <string-array name="length">
+        <item>Meter</item>
+        <item>Centimeter</item>
+        <item>Kilometer</item>
+        <item>Yard</item>
+        <item>Mile</item>
+        <item>Feet</item>
+        <item>Inch</item>
+    </string-array>
+</resources>
